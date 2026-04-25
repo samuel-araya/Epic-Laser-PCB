@@ -494,7 +494,7 @@
       "netlist": "",
       "plot": "",
       "pos_files": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "Epic-Laser.dsn",
       "step": "",
       "svg": "",
       "vrml": ""
